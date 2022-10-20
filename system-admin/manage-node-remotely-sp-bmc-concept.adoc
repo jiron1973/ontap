@@ -13,12 +13,16 @@ You can manage a node remotely using an onboard controller, called a Service Pro
 
 The following platforms support BMC instead of SP:
 
+* FAS 9500
 * FAS 8700
 * FAS 8300
-* FAS27x0
+* FAS 500f
+* FAS 27x0
+* AFF A900
 * AFF A800
 * AFF A700s
 * AFF A400
 * AFF A320
+* AFF A250
 * AFF A220
 * AFF C190
